@@ -19,9 +19,9 @@ class FlyTest{
 	private final static String hasNotEaten;
 	
 	static {
-		f_name = "Joshua";
+		f_name = "Flyski";
 				
-		t_name = "Raymond";
+		t_name = "Thing1";
 		thing_eat = f_name + " Fly has just eaten a Thing" ;
 		thing_hasEaten = f_name + " Fly has eaten a Thing";
 		

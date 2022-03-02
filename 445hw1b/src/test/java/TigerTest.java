@@ -37,23 +37,23 @@ class TigerTest{
 	private final static String hasNotEaten;
 	
 	static {
-		tiger_name = "Andrew";
+		tiger_name = "Eye of Tiger";
 		tiger_eat = tiger_name + " Tiger has just eaten a Tiger" ;
 		tiger_hasEaten = tiger_name + " Tiger has eaten a Tiger";
 		
-		a_name = "Mary Joy";
+		a_name = "Anty";
 		ant_eat = tiger_name + " Tiger has just eaten a Ant" ;
 		ant_hasEaten = tiger_name + " Tiger has eaten a Ant";
 		
-		b_name = "Shereen";
+		b_name = "Batman";
 		bat_eat = tiger_name + " Tiger has just eaten a Bat" ;
 		bat_hasEaten = tiger_name + " Tiger has eaten a Bat";
 		
-		f_name = "Joshua";
+		f_name = "Flyski";
 		fly_eat = tiger_name + " Tiger has just eaten a Fly" ;
 		fly_hasEaten = tiger_name + " Tiger has eaten a Fly";
 		
-		t_name = "Raymond";
+		t_name = "Thing1";
 		thing_eat = tiger_name + " Tiger has just eaten a Thing" ;
 		thing_hasEaten = tiger_name + " Tiger has eaten a Thing";
 		
